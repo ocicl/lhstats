@@ -1,0 +1,10 @@
+* lhstats
+
+Statistical functions in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mrc/lhstats.git   |
+| commit  | 6d42dfe  |
+| systems | lhstats |
+|---------+-------------------------------------------|
+
